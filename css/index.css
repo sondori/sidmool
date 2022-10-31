@@ -236,7 +236,6 @@ margin-top: 100px;}
 .new .new-wrap{
     width: 1200px;
     margin: 0 auto;
-    overflow: hidden;
 }
 .new .new-wrap .header h1{
     font-family: 'Cafe24Dangdanghae';
@@ -252,7 +251,7 @@ margin-top: 100px;}
     width: 1200px;
     margin: 0 auto;
     text-align: center;
-    padding: 10px;
+    padding: 12px;
     cursor: pointer;
 }
 .content-img .product img{
@@ -276,7 +275,7 @@ font-weight: bold;
 .swiper-button-next,
 .swiper-button-prev{
     color:#e1e1e1;
-    top: 130%;
+    top: 110%;
 
 }
 .swiper-button-prev{
