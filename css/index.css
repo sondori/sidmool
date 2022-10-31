@@ -77,14 +77,14 @@ body{background-color: #fff;}
     width: 2px;
     background-color: #aaa;
     right: -6.5px;
-    top: 10px;
+    top: 5px;
 }
 .content .content-wrap .menu ul li a:hover.on{
     color: rgb(54, 53, 53);
 }
 
 .nav{
-    width: 105%;
+    width: 100%;
 
 }
 .nav .nav-wrap{
@@ -275,14 +275,14 @@ font-weight: bold;
 .swiper-button-next,
 .swiper-button-prev{
     color:#e1e1e1;
-    top: 90%;
+    top: 105%;
 
 }
 .swiper-button-prev{
-    left: 200px;
+    left: 280px;
 }
 .swiper-button-next{
-    right: 200px;
+    right: 280px;
 }
 
 .middle-banner{
